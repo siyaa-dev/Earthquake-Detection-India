@@ -6,7 +6,7 @@ This machine learning model is trained on Official Dataset from [BHUKOSH - Geolo
 
 ## Dataset
 
-CSV File - [dataset](earthquake.csv)
+CSV File - [dataset w/ magmb](earthquake_magmb.csv) or [dataset w/ mw](earthquake_mw.csv)
 
 This CSV File is created by extracting data from [.geojson File](Earthquake.geojson) using this [python script](create_dataset_csv.py).
 
