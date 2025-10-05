@@ -46,4 +46,6 @@ MW - Moment Magnitude (more accuarte specifically for large scale earthquakes)
 
 This is the [Google Colab Notebook](https://colab.research.google.com/drive/1tIuRzrtZpWHwdHoGxAVVhI9hHvCOpsDg?usp=sharing).
 
+#### Before running this Notebook
+
 Make sure that you have mounted your google drive and the csv file is uploaded to your google drive. Also change the path of the dataset.
