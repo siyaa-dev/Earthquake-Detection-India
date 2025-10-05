@@ -40,7 +40,7 @@ MAGMB - Body Wave Magnitude (less accurate but reliable for small scale earthqua
 
 DEPTH_KM - Depth from the earth surface (in Kilometers)
 
-MW - Moment Magnitude (more accuarte specifically for large scale earthquakes)
+MW - Moment Magnitude (more accurate specifically for large scale earthquakes)
 
 ## Notebook
 
